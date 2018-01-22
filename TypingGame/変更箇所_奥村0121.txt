@@ -1,0 +1,11 @@
+Enemy_word全体的に変更
+TypingFrame.java->update 122-126の追加
+
+Variable内に変数、関数の追加
+TimeFrame.javaの追加
+
+Typing.java内 たくさん変えた
+不要そうなところのコメントアウト
+変数sec追加
+timer系の場所を結構弄ってる
+どこ変えたか分からなくなってるので、変なところあったら教えて…

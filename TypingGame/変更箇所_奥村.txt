@@ -1,0 +1,21 @@
+変更箇所
+Typing.java
+11 private Enemy_word...
+15,16 scoreLabel,TimeLimitLabelの追加
+17 INIT_DELAY -> Time_Limit
+27 private int bonus...
+68 v.ResetScore();
+78 bonus++
+80-82 if(bonus...)
+92 bonus = 0;
+114-116 refreshScore() コメントアウト
+134 succes()内コメントアウト
+151-153 enemy_word...
+157 コメントアウト
+
+
+Enemy_word.java を追加した
+
+Variable.java
+25 ResetScore()
+49 RecoverHP_Player(int n)
